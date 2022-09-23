@@ -1,4 +1,4 @@
-# responsive-eccomerce-page-
+# eccomerce page with react and tailwind css
 
 This was a Front-End Mentor challenge This is a solution to the ecommerce-product-page challenge on Frontend Mentor.
 
